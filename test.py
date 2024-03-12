@@ -1,4 +1,4 @@
 def f():
-    a = "main"
+    a = "main1"
 
 
