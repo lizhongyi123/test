@@ -1,3 +1,3 @@
 def f():
-    a = "main "
+    a = "main12"
 
