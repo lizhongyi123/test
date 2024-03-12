@@ -1,3 +1,5 @@
 def f():
-    a = "main12"
+
+    a = "test"
+
 
