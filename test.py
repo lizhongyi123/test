@@ -1,4 +1,5 @@
 def f():
-    a = "test "
+    a = "test12"
+
 
 
